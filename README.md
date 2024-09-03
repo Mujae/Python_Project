@@ -1,6 +1,6 @@
 # Toy-Project
 
-여기는 토이 프로젝트 저장 공간입니다. 이 레포지토리는 개인적인 학습과 실험을 위해 만들어졌으며,  
-새로운 아이디어나 기술을 시험해보기 위한 코드들이 포함되어 있습니다.  
-**데이콘**, **캐글**, **미니 프로젝트** 등 다양한 주제에 대한 실습 코드들이 포함되어 있습니다.
+This repository is a storage space for various toy projects.  
+It includes practice codes on different topics such as **Dacon or Kaggle**, **mini-projects**, and **practice code**.
 
+**This repository is primarily for personal learning and experimentation.**
